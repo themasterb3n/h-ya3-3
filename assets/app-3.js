@@ -1,0 +1,1 @@
+console.log("MegaLinkForge high performance CDN loaded successfully!");
